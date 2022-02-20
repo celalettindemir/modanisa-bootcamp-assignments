@@ -7,3 +7,12 @@
 [submodule "week-3-assignment-celalettindemir"]
 	path = week-3-assignment-celalettindemir
 	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-3-assignment-celalettindemir
+[submodule "week-4-assignment-celalettindemir"]
+	path = week-4-assignment-celalettindemir
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-4-assignment-celalettindemir.git
+[submodule "week-5-assignment-celalettindemir"]
+	path = week-5-assignment-celalettindemir
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-5-assignment-celalettindemir.git
+[submodule "week-6-assignment-celalettindemir"]
+	path = week-6-assignment-celalettindemir
+	url = https://github.com/152-Modanisa-FullStack-Bootcamp/week-6-assignment-celalettindemir.git
